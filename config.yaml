@@ -1,0 +1,4 @@
+data_paths:
+  raw: "data/raw/data.csv"
+  processed: "data/processed"
+model_path: "models/model.pkl"

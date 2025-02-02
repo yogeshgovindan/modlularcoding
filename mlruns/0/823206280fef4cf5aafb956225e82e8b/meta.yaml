@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/YOGESH/modlularcoding/mlruns/0/823206280fef4cf5aafb956225e82e8b/artifacts
+end_time: 1738498048836
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 823206280fef4cf5aafb956225e82e8b
+run_name: receptive-stoat-807
+run_uuid: 823206280fef4cf5aafb956225e82e8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738498037423
+status: 3
+tags: []
+user_id: acer
